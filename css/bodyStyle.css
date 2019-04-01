@@ -1,0 +1,19 @@
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    display:inline; 
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+
+.cabecalho{
+	padding: 120px;
+}
+
+.formatLettersBody{
+	background-color: #f2f2f2;
+	font-family: "Trebuchet MS";
+}
+

@@ -1,0 +1,10 @@
+.letters_effect_1:hover{
+	text-shadow: 3px 3px 15px #428bca;
+	 -webkit-transition-delay: 0.1s;
+    -moz-transition-delay: 0.1s;
+    -ms-transition-delay: 0.1s;
+    -o-transition-delay: 0.1s;
+    transition-delay: 0.1s;
+}
+
+

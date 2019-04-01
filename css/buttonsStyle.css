@@ -1,0 +1,23 @@
+.button_effect_1:hover{
+	box-shadow: 0.5px 0.5px #428bca;
+	 -webkit-transition-delay:  0.2s;
+    -moz-transition-delay:  0.2s;
+    -ms-transition-delay:  0.2s;
+    -o-transition-delay:  0.2s;
+    transition-delay:  0.2s;
+
+}
+
+.button_effect_2{
+    -webkit-transition: 0.3s all;   
+    -webkit-transition-delay:  0.3s; 
+    -moz-transition:  0.3s all;   
+    -moz-transition-delay:  0.3s; 
+    -ms-transition:  0.3s all;   
+    -ms-transition-delay:  0.3s; 
+    -o-transition:  0.3s all;   
+    -o-transition-delay: 0.3s; 
+    transition: 0.3s all;   
+    transition-delay: 0.3s; 
+
+}
